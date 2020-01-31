@@ -1,0 +1,16 @@
+{
+    "name": "leo/capoo",
+    "description": "capoo is good",
+    "authors": [
+        {
+            "name": "lin.leo",
+            "email": "lin.leo@hiero7.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Leo\\Capoo\\": "src/"
+        }
+    }
+}
